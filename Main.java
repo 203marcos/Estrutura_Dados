@@ -9,5 +9,6 @@ public class Main {
         arroz.add(4);
         arroz.add(2,3);
         arroz.retornaTodos();
+        System.out.println("teste");
     }
 }
